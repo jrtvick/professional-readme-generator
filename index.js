@@ -17,6 +17,12 @@ const questions = [
     name: "description",
   },
   {
+    type: "list",
+    message: "Select a license.",
+    name: "license",
+    choices: ["IBM", "MIT", "Mozilla", "None"]
+  },
+  {
     type: "input",
     message: "Enter installation instructions for your project.",
     name: "installation",
