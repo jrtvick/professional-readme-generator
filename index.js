@@ -1,5 +1,6 @@
 // TODO: Include packages needed for this application
 const inquirer = require("inquirer");
+const generateMarkdown = require("./utils/generateMarkdown")
 // TODO: Create an array of questions for user input
 const questions = [
   {
@@ -17,9 +18,9 @@ function init() {
   inquirer
     .prompt(questions)
     .then((response) => {
-      console.log(response);
+      console.log(generateMarkdown(response));
     })
-    .catch(() => {});
+    .catch((error) => {console.log(error)});
 }
 
 // Function call to initialize app
