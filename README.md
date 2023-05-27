@@ -3,22 +3,27 @@
 
 ## Description
 
-The purpose of this repository is to create a Professional ReadME Generator through the use of JavaScript and Node.js. 
+The Professional README Generator is a command-line application built using JavaScript and Node.js. This program is designed to simplify the process of creating a high-quality README file for your projects. A README file is an essential component of any software project, providing important information about the project, its functionality, installation instructions, usage examples, and more.
 
-CSS gives a webpage much more detail and interactivity, and this exercise helped show just how much was taught in week one of the bootcamp. The reason for building this webpage is to show my knowledge and ability with CSS as well as establish a portfolio for future when presenting my work to colleagues and potential employers. Understanding things like how button tags can add further details to elements and how media queries work will streamline the process of producing interactive and well functioning sites in the future. I learned how to do numerous advanced CSS stylings, as well as furthered my knowledge of how to make HTML and CSS work together to style a webpage.
+With this application, you no longer need to spend time manually formatting and structuring your README files. By answering a series of prompts, you can quickly generate a professional-looking README file that follows best practices and includes all the necessary sections.
 
 
 ## Installation
 
-N/A
+User will need Node.js as well as the inquirer collection for command line user interfaces. Please follow the following links for documentation and instruction:
+
+https://www.npmjs.com/package/inquirer#documentation
+
+https://coding-boot-camp.github.io/full-stack/nodejs/how-to-install-nodejs
 
 
 ## Usage
 
-![Tyler Vick's Web Development Portfolio on desktop resolution](./assets/images/full-size-resolution-screenshot.png)
+![Tyler Vick's Professional ReadME Generator demonstration video](./assets/videos/Professional%20ReadME%20Generator.webm)
 
-![Tyler Vick's Web Development Portfolio on iPhone SE resolution](./assets/images/iPhone-SE-resolution-screenshot.png)
+Sorry the video doesn't seem to be inserting properly into the readme, please view it at the following link:
 
+https://drive.google.com/file/d/1tCZFGC-UA1rn5l9ex5hKx0LTxxJq8NMP/view
 
 
 The URL of the GitHub repository: https://github.com/jrtvick/profesional-readme-generator.git
@@ -28,13 +33,17 @@ The URL of the GitHub repository: https://github.com/jrtvick/profesional-readme-
 
 Tutorial Links:
 
+https://nodejs.org/en/download
+
 https://choosealicense.com/licenses/
 
 https://www.npmjs.com/package/inquirer#documentation
 
-
+https://coding-boot-camp.github.io/full-stack/nodejs/how-to-install-nodejs
 
 https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+
+https://coding-boot-camp.github.io/full-stack/computer-literacy/video-submission-guide
 
 
 ## License

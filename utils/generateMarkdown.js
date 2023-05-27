@@ -53,7 +53,7 @@ ${data.installation}
 ${data.usage}
 
 ## Contact Info
-GitHub username: ${data.username}
+GitHub username: ${data.username}\n
 Please contact me at ${data.email}
 
 ${data.license === "None" ? "" : "## License"}

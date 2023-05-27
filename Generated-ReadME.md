@@ -1,7 +1,7 @@
-# qertgbqertgqerg
+# Professional ReadME Generator
 
 ## Description
-regqergrqeg
+I want to create a professional readme fast!
 
 ## Table of Contents
 - [Installation](#installation)
@@ -12,14 +12,15 @@ regqergrqeg
 - [License](#license)
 
 ## Installation
-regqergrq
+Be gentle
 
 ## Usage
-gregreqgqerg
+Be careful
 
 ## Contact Info
-GitHub username: qergeqrgqreg
-Please contact me at ergqerg
+GitHub username: jrtvick
+
+Please contact me at jrtvick@gmail.com
 
 ## License
 Please refer to this documentation [License: MIT](https://choosealicense.com/licenses/mit/) for further information.
@@ -27,7 +28,7 @@ Please refer to this documentation [License: MIT](https://choosealicense.com/lic
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Contributing
-eqrgerqg
+Be generous
 
 ## Tests
-erqgeqrgqerg
+Wear your ppe
