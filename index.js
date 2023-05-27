@@ -8,6 +8,11 @@ const path = require("path");
 const questions = [
   {
     type: "input",
+    message: "Please enter your first + last name",
+    name: "name",
+  },
+  {
+    type: "input",
     message: "What is the title of your project?",
     name: "title",
   },
@@ -20,7 +25,7 @@ const questions = [
     type: "list",
     message: "Select a license.",
     name: "license",
-    choices: ["IBM", "MIT", "Mozilla", "None"]
+    choices: ["MIT", "Mozilla", "None"],
   },
   {
     type: "input",
@@ -64,7 +69,7 @@ function init() {
   inquirer
     .prompt(questions)
     .then((response) => {
-      writeToFile('Generated-ReadME.md', generateMarkdown(response));
+      writeToFile("Generated-ReadME.md", generateMarkdown(response));
     })
     .catch((error) => {
       console.log(error);
